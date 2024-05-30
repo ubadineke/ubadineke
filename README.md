@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Software Engineer | Backend
 
-🚀 Excited to have you on my GitHub! I'm passionate about crafting reliable and scalable backend systems. Here's what I work with:
+🚀 Excited to have you on my GitHub! I'm passionate about crafting reliable and scalable systems. Here's what I work with:
 
 ## Technologies:
 
