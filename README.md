@@ -21,8 +21,14 @@
 - Redis
 
 ## Let's Connect!
+<a href="https://twitter.com/ubadinekethedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akalazud" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ubadineke-prince-09659224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akalazu david" height="30" width="40" /></a>
 
 📫 Feel free to reach out if you have any questions, suggestions, or just want to chat about technology and software development. Happy coding!
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ubadineke&show_icons=true&locale=en&layout=compact" alt="ubadineke" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ubadineke&show_icons=true&locale=en" alt="ubadineke" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ubadineke&" alt="ubadineke" /></p>
 <!--
 **ubadineke/ubadineke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
