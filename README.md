@@ -27,7 +27,9 @@
 📫 Feel free to reach out if you have any questions, suggestions, or just want to chat about technology and software development. Happy coding!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ubadineke&show_icons=true&locale=en&layout=compact" alt="ubadineke" /></p>
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ubadineke&show_icons=true&locale=en" alt="ubadineke" /></p>
+-->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ubadineke&" alt="ubadineke" /></p>
 <!--
 **ubadineke/ubadineke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
