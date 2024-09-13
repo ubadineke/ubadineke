@@ -21,8 +21,8 @@
 - Redis
 
 ## Let's Connect!
-<a href="https://twitter.com/ubadinekethedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akalazud" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ubadineke-prince-09659224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akalazu david" height="30" width="40" /></a>
+<a href="https://twitter.com/ubadinekethedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ubadinekethedev" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ubadineke-prince-09659224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ubadineke prince" height="30" width="40" /></a>
 
 📫 Feel free to reach out if you have any questions, suggestions, or just want to chat about technology and software development. Happy coding!
 
